@@ -1,2 +1,28 @@
 django
 psycopg2-binary
+
+
+pytz
+python-slugify
+Pillow
+argon2-cffi
+whitenoise
+unidecode
+
+# Django
+# ------------------------------------------------------------------------------
+
+django-environ
+django-model-utils
+django-allauth
+django-crispy-forms
+django-autoslug
+
+python-social-auth
+social-auth-app-django
+django-rest-auth 
+djangorestframework-simplejwt
+django-rest-auth
+djangorestframework-jwt
+django-rest-knox
+django-oauth-toolkit
